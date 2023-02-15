@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="style1.css">
+
+<h1><strong>Q site</strong></h1>
+
+</head>
+
+<body>
+    <p>Testing</p>
+</body>
